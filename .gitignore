@@ -1,0 +1,12 @@
+__pycache__
+spitz_venv
+spreadsheet
+custom_slidesegmenter_parameters
+other
+
+vit256_small_dino.pth
+vit4k_xs_dino.pth
+vit224_large_dino_v2.pth
+
+*.xlsx
+*tiles.json

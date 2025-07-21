@@ -1,0 +1,19 @@
+scp==0.14.5
+paramiko==3.0.0
+natsort==8.3.1
+matplotlib==3.7.1
+pandas==1.5.3
+openpyxl==3.1.2
+opencv-python==4.8.0.76
+pydicom==2.3.1
+wsidicom==0.11.0
+numpy==1.24.3
+statsmodels==0.14.4
+torch==2.2.0 --index-url https://download.pytorch.org/whl/cu118
+torchvision==0.17.0 --index-url https://download.pytorch.org/whl/cu118
+torchinfo==1.8.0
+albumentations==1.3.1
+einops==0.6.1
+git+https://github.com/RTLucassen/slideloader@ccbf4c55eb76333e502c6c714a4b1677600bde1c
+git+https://github.com/RTLucassen/slidesegmenter@c0d501ad93feafd7bc668b13c8c1041d73ba8eaa
+git+https://github.com/RTLucassen/annotation_tool@7c542b17a0943c71224eed331370284d9683a1a5
