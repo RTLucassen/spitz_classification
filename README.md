@@ -5,8 +5,6 @@ This repository contains all code and trained model parameters to support the pa
 
 The paper is currently in preparation.
 
-The corresponding 
-
 ## Contents
 The repository contains several folders:
 - `configs` contains two folders that include the configurations used for data preprocessing and model training.
