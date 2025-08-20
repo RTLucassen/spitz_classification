@@ -3,7 +3,7 @@ This repository contains all code and trained model parameters to support the pa
 
 ***"Artificial Intelligence-Based Classification of Spitz Tumors"***  
 
-The paper is currently in preparation.
+The paper is currently under review.
 
 ## Contents
 The repository contains several folders:
