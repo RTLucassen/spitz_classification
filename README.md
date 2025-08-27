@@ -1,5 +1,5 @@
 # Artificial Intelligence-Based Classification of Spitz Tumors
-This repository contains all code and trained model parameters to support the paper:  
+This repository contains all code to support the paper:  
 
 ***"Artificial Intelligence-Based Classification of Spitz Tumors"***  
 
