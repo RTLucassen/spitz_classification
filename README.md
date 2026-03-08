@@ -7,6 +7,10 @@ published in the Journal of Pathology Informatics and presented at ESMO AI & Dig
 
 [[`arXiv`](https://arxiv.org/abs/2508.05391)] [[`JPI`](https://www.sciencedirect.com/science/article/pii/S2153353926001082)] [[`ESMO AI Poster`](https://github.com/RTLucassen/spitz_classification/blob/main/.github/ESMO_AI_poster.pdf)]
 
+<div align="center">
+  <img width="50%" alt="Simulation" src=".github\simulation.png">
+</div>
+
 ## Contents
 The repository contains several folders:
 - `configs` contains two folders that include the configurations used for data preprocessing and model training.
